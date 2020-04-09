@@ -11,3 +11,4 @@ reqwest = "0.10.4"
 librsync-ffi = { path = "/media/kevin/Data/Projects/librsync-rust"}
 tokio = { version = "0.2.16", features = ['rt-core', 'macros', 'rt-threaded']}
 notify = "4.0.15"
+walkdir = "2.3.1"
